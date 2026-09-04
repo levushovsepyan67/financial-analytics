@@ -1,0 +1,69 @@
+# 50+ финансовых активов для pipeline
+
+stocks_moex:
+  - SBER
+  - GAZP
+  - LKOH
+  - YNDX
+  - GMKN
+  - NVTK
+  - ROSN
+  - TATN
+  - MGNT
+  - PLZL
+  - ALRS
+  - CHMF
+  - MTSS
+  - MOEX
+  - VTBR
+  - AFLT
+  - PHOR
+  - IRAO
+  - FEES
+  - RUAL
+
+stocks_yahoo:
+  - AAPL
+  - MSFT
+  - GOOGL
+  - AMZN
+  - META
+  - TSLA
+  - NVDA
+  - JPM
+  - V
+  - JNJ
+  - WMT
+  - PG
+  - MA
+  - UNH
+  - HD
+  - DIS
+  - BAC
+  - XOM
+  - PFE
+  - KO
+
+crypto_binance:
+  - BTCUSDT
+  - ETHUSDT
+  - BNBUSDT
+  - SOLUSDT
+  - ADAUSDT
+  - XRPUSDT
+  - DOGEUSDT
+  - DOTUSDT
+  - MATICUSDT
+  - LTCUSDT
+  - AVAXUSDT
+  - LINKUSDT
+  - ATOMUSDT
+  - UNIUSDT
+  - ETCUSDT
+
+forex_yahoo:
+  - USDRUB=X
+  - EURUSD=X
+  - GBPUSD=X
+  - USDJPY=X
+  - EURRUB=X
