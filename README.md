@@ -404,17 +404,17 @@ pytest tests/test_models.py -v
 - [x] Единая схема OHLCV + валидация + Great Expectations
 - [x] ClickHouse: схемы, MV, загрузчик
 - [x] MinIO Data Lake с Hive-партициями
-- [x] PySpark + Pandas: полный набор фичей
+- [ ] PySpark + Pandas: полный набор фичей
 - [x] Ансамбль аномалий (Z-score + IF + GARCH)
 - [x] VaR (3 метода) + Sharpe + CVaR + Sortino + Drawdown
 - [x] Оптимизация портфеля Марковица
 - [x] Airflow DAG: полный pipeline (ingest → features → anomaly → GP → risk → portfolio)
-- [x] Telegram алерты
+- [ ] Telegram алерты
 - [x] Greenplum/PostgreSQL analytics (returns, correlation, VaR)
 - [x] pytest тесты (30+)
 - [x] CI/CD (GitHub Actions)
 - [x] Jupyter EDA notebook
-- [x] Power BI SQL-запросы
+- [ ] Power BI SQL-запросы
 - [x] 55+ активов в config/symbols.yaml
 - [ ] Power BI шаблон (.pbix) — создаётся вручную по powerbi/queries.sql
 - [ ] Kubernetes деплой (production)
@@ -426,8 +426,3 @@ pytest tests/test_models.py -v
 MIT License. Проект создан в образовательных целях. Не является финансовой рекомендацией.
 
 ---
-
-## Автор
-
-Pet-проект для портфолио Data / Analytics Engineer.  
-Стек: Python • SQL • Spark • ClickHouse • Airflow • Power BI
